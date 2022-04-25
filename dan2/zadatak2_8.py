@@ -1,3 +1,4 @@
+
 #Napiši program koji će unositi brojeve sve dok nije unesen negativan broj (while petlja). Nakon toga program provjerava da li je suma znamenki unesenih brojeva djeljiva s 3 te ispisuje one brojeve kojima je ovaj uvjet istinit. (brojevi idi do troznamenkastog)
 #znamenka = broj % 10
 #broj = broj // 10 - zaokružuje na najmanji sljedeći cijeli broj ali ipak dijeli s 10
