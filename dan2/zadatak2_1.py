@@ -1,4 +1,4 @@
 #Napiši program koji ce ispisati prvo slovo u rijeci "Replit".
 
-rec = "Replit"
-print(rec[0])
+rijec = "Replit"
+print(rijec[0])
