@@ -1,0 +1,13 @@
+# import dan1.zadatak1
+# import dan1.zadatak2
+# import dan1.zadatak3
+# import dan1.zadatak4
+# import dan2.zadatak2_1
+# import dan2.zadatak2_2
+# import dan2.zadatak2_3
+# import dan2.zadatak2_4
+# import dan2.zadatak2_5
+# import dan2.zadatak2_6
+# import dan2.zadatak2_7
+# import dan2.zadatak2_8
+# import projects.konverter_valuta
