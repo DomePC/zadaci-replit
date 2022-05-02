@@ -1,4 +1,3 @@
-from turtle import goto
 import keyboard
 import pyautogui
 import win32api
