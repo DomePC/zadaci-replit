@@ -1,5 +1,4 @@
 # Welcome to Python Replit
----
 
 This is repository for Python Replit tutorials. This is auto-synced.
 
